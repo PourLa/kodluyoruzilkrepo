@@ -1,4 +1,4 @@
-# **[Patika.dev](https://www.patika.dev/tr) , Git Dersinin son aşaması olan projeler kısmından repo işlemleri Projesi.**
+# [Patika.dev](https://www.patika.dev/tr) , Git Dersinin son aşaması olan projeler kısmından repo işlemleri Projesi.
 
 # Repo işlemleri
 
@@ -30,4 +30,4 @@ print(hello world)
 
 ***
 
-## **Patika.dev profilime [buradan](https://app.patika.dev/PourLa) ulaşabilirsiniz.**
+## **[Patika.dev](https://www.patika.dev/tr) profilime [buradan](https://app.patika.dev/PourLa) ulaşabilirsiniz.**
