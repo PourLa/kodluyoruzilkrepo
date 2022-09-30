@@ -1,4 +1,4 @@
-# PATİKA.DEV ÖDEV
+## **[Patika.dev](https://www.patika.dev/tr) , Git Dersinin son aşaması olan projeler kısmından repo işlemleri Projesi.**
 
 ## [patika.dev](https://www.google.com)
 
@@ -28,3 +28,6 @@ print(hello world)
 
 ![TEMA](https://cdn-tema.mncdn.com/Uploads/Cms/whatsapp-image-2022-09-21-at-094224.jpeg)
 
+***
+
+## **Patika.dev profilime [buradan](https://app.patika.dev/PourLa) ulaşabilirsiniz.**
