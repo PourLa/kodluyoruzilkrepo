@@ -1,6 +1,6 @@
-## **[Patika.dev](https://www.patika.dev/tr) , Git Dersinin son aşaması olan projeler kısmından repo işlemleri Projesi.**
+# **[Patika.dev](https://www.patika.dev/tr) , Git Dersinin son aşaması olan projeler kısmından repo işlemleri Projesi.**
 
-## [patika.dev](https://www.google.com)
+# Repo işlemleri
 
 ---
 
